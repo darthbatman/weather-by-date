@@ -1,0 +1,33 @@
+{
+  "name": "weather-by-date",
+  "version": "1.0.0",
+  "description": "Get average temperature for a given date.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthbatman/weather-by-date.git"
+  },
+  "keywords": [
+    "weather",
+    "date",
+    "temperature",
+    "average",
+    "climate"
+  ],
+  "author": "Rishi Masand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darthbatman/weather-by-date/issues"
+  },
+  "homepage": "https://github.com/darthbatman/weather-by-date#readme"
+}
